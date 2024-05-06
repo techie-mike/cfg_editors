@@ -1,0 +1,18 @@
+{
+    // Because is used Clangd
+    "C_Cpp.intelliSenseEngine": "Disabled",
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Default Light+",
+    "editor.renderWhitespace": "trailing",
+    "workbench.colorCustomizations": {
+        "editorWhitespace.foreground": "#FF0000"
+    },
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "editor.suggest.localityBonus": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+}

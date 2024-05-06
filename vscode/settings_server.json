@@ -1,0 +1,10 @@
+{
+    // Path to your clangd
+    "clangd.path": "/usr/bin/clangd-14",
+    "clangd.arguments": [
+        "-pretty",
+        "--background-index",
+        "-header-insertion=never",
+    ],
+}
+
